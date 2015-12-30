@@ -1,6 +1,8 @@
 Angular [![Build Status](https://travis-ci.org/angular/angular.svg?branch=master)](https://travis-ci.org/angular/angular) [![Join the chat at https://gitter.im/angular/angular](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular/angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 =========
 
+[![Join the chat at https://gitter.im/seal789ie/angular](https://badges.gitter.im/seal789ie/angular.svg)](https://gitter.im/seal789ie/angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Angular is a development platform for building mobile and desktop web applications. This is the
 repository for [Angular 2][ng2], both the JavaScript (JS) and [Dart][dart] versions.
 
